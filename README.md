@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @maddoxyu
+- 👀 I’m interested in CS, Data Science, AI, ML, DL, Competitive Programming.
+- 🌱 I’m currently attending UCLA as a Computer Science major, and would love to interact with more students!
+- 📫 How to reach me -> instagram.com/mjwyu/
